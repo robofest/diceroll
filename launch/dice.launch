@@ -1,0 +1,7 @@
+<launch>
+    <param name="/dice_pub_freq" type="double" value="0.2" />    
+    <node name="dice_pub" pkg="diceroller" type="dice_pub" />
+    <node name="dice_sub" pkg="diceroller" type="dice_sub" 
+          output="screen" launch-prefix="gnome-terminal -e" />
+</launch>
+
