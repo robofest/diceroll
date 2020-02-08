@@ -1,1 +1,1 @@
-<h1> Hi </h1>
+<h1> Dice Roll with a custom message </h1>
