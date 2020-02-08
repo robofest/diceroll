@@ -2,4 +2,4 @@
 a custom message My2Dice is defined in package diceroller.
 My2Dice has two fields
 - uint8 d1
--uint8 d2
+- uint8 d2
